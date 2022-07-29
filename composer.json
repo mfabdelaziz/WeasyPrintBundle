@@ -1,7 +1,7 @@
 {
     "name": "mfabdelaziz/weasyprint-bundle",
     "type": "symfony-bundle",
-    "description": "Easily create PDF in Symfony by converting Twig/HTML templates.",
+    "description": "Create PDF in Symfony by converting Twig/HTML templates.",
     "keywords": [
         "weasyprint",
         "pdf",
